@@ -1,6 +1,12 @@
-Branchements du circuit avec : 
-- ESP32C3
-- Lecteur de badges
-- Leds et resistances 
-- Alimentation PC
+VALEURS ET BIBLIOTHEQUES
+
+Valeur des résistances utilisées : 220 ohm chacune
+
+Librairies utilisées : 
+
+- SPI :  permet de gérer les échanges d'informations entre la carte Arduino et les circuits SPI connectés
+- MFRC522 : pour interagir avec le module RFID MFRC522, facilitant la lecture et l'écriture de cartes RFID avec des microcontrôleurs tels qu'Arduino
+- WiFi : permet d'utiliser les fonctionnalités WiFi de l'ESP32
+- WiFiClientSecure : établir des connexions securisées en ssl/tls en assurant le chiffrement des données
+
 
