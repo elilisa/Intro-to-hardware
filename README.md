@@ -92,7 +92,7 @@ Le fichier de ping est disponible dans `ping_raspberry.ino`.
 ---
 
 ## **Contributeurs**
-- Auteurs principaux : @elzie et @
+- Auteurs principaux : @elzie et @GlenChaigneau
 - Contributions bienvenues via des pull requests.
 
 ---
