@@ -75,14 +75,6 @@ Un fichier de test (`ping_rasp.ino`) permet de vérifier si le Raspberry Pi est 
 3. **Test de Connectivité** :
    - Utilisez le fichier `ping_raspberry.ino` pour vérifier si le Raspberry Pi est accessible via le réseau.
 
----
-
-## **Code**
-### **1. Code Principal**
-Le fichier principal est disponible dans `main_code.ino`.
-
-### **2. Code de Test**
-Le fichier de ping est disponible dans `ping_raspberry.ino`.
 
 ---
 
