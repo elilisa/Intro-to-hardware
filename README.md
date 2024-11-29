@@ -35,7 +35,7 @@ Le fichier principal du projet (`main_code.ino`) :
 - Contrôle les LED en fonction de la réponse.
 
 ### **2. Code de Test : Ping**
-Un fichier de test (`ping_raspberry.ino`) permet de vérifier si le Raspberry Pi est joignable via le réseau.
+Un fichier de test (`ping_rasp.ino`) permet de vérifier si le Raspberry Pi est joignable via le réseau.
 
 ---
 
