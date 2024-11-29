@@ -44,9 +44,11 @@ Un fichier de test (`ping_rasp.ino`) permet de vérifier si le Raspberry Pi est 
    - Installez les bibliothèques nécessaires :
      ```arduino
      ArduinoJson
-     MFRC522
-     WiFi
+     MFRC522 : pour interagir avec le module RFID MFRC522, facilitant la lecture et l'écriture de cartes RFID avec des microcontrôleurs tels qu'Arduino
+     WiFi : permet d'utiliser les fonctionnalités WiFi de l'ESP32
      HTTPClient
+     SPI :  permet de gérer les échanges d'informations entre la carte Arduino et les circuits SPI connectés
+     WiFiClientSecure : établir des connexions securisées en ssl/tls en assurant le chiffrement des données
      ```
    - Configurez le Raspberry Pi pour qu'il héberge une API REST exposant les données des badges.
 
